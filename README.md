@@ -29,8 +29,9 @@ Java: Para desenvolvimento de aplicações de grande escala e sistemas móveis.
 ![image](https://github.com/user-attachments/assets/5813f82a-3a3d-4c99-b3d9-d63731ef83eb)
 ##
 
-📫 Vamos nos Conectar!
-Sinta-se à vontade para me seguir ou entrar em contato! Estou sempre aberto a colaborações e oportunidades.
+
+Sinta-se à vontade para me seguir ou entrar em contato! 
+Estou sempre aberto a colaborações e oportunidades.
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/eGr2mR)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafa_rubia7/)
