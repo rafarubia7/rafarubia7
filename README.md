@@ -1,6 +1,7 @@
 🌍 Bem-vindo ao meu Perfil do GitHub!
 Olá! Sou Rafael Rubiá!
 
+
 💻 Tecnologias e Linguagens que Uso:
 
 
@@ -26,8 +27,17 @@ Java: Para desenvolvimento de aplicações de grande escala e sistemas móveis.
 
 ![image](https://github.com/user-attachments/assets/5813f82a-3a3d-4c99-b3d9-d63731ef83eb)
 
+
 📫 Vamos nos Conectar!
 Sinta-se à vontade para me seguir ou entrar em contato! Estou sempre aberto a colaborações e oportunidades.
+
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/eGr2mR)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafa_rubia7/)
+![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rafa_rubia7?_t=8qGef6La3cM&_r=1)
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rafaelrubia3786?si=xDwBi1BDqjlszswr)
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafarubia7&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafarubia7&hide_progress=true)
 
 ![gif](https://github.com/user-attachments/assets/c0662eb6-5a7d-415a-b5d2-cde974a6500b)
 
