@@ -1,6 +1,7 @@
 🌍 Bem-vindo ao meu Perfil do GitHub!
-Olá! Sou Rafael Rubiá!
 
+Sou Rafael Rubiá!
+##
 
 💻 Tecnologias e Linguagens que Uso:
 
@@ -26,7 +27,7 @@ Python: Para automação e desenvolvimento de aplicações versáteis.
 Java: Para desenvolvimento de aplicações de grande escala e sistemas móveis.
 
 ![image](https://github.com/user-attachments/assets/5813f82a-3a3d-4c99-b3d9-d63731ef83eb)
-
+##
 
 📫 Vamos nos Conectar!
 Sinta-se à vontade para me seguir ou entrar em contato! Estou sempre aberto a colaborações e oportunidades.
@@ -40,3 +41,6 @@ Sinta-se à vontade para me seguir ou entrar em contato! Estou sempre aberto a c
   <img src="https://github-readme-stats.vercel.app/api?username=rafarubia7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafarubia7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2&custom_title=Most%20Used%20Languages" height="150" alt="languages graph"  />
 </div>
+
+
+
