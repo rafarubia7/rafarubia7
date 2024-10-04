@@ -1,5 +1,5 @@
 🌍 Bem-vindo ao meu Perfil do GitHub!
-Olá! Sou Rafael Rubiá
+Olá! Sou Rafael Rubiá!
 
 💻 Tecnologias e Linguagens que Uso
 HTML & CSS: Para a construção de páginas web responsivas e visualmente atraentes.
