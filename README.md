@@ -5,7 +5,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3584E3&center=true&vCenter=true&random=false&width=600&height=70&lines=Full-Stack+Developer+in+Training+%F0%9F%92%BB;Passionate+about+Learning+%F0%9F%8C%B1;Systems+Development+Student+%F0%9F%93%9A)](https://git.io/typing-svg)
 
-  <a href="https://github.com/AlessandroMendesS"><img src="https://github-widgetbox.vercel.app/api/profile?username=rafarubia7&data=followers,repositories,stars,commits&theme=nautilus" width="600" alt="GitHub WidgetBox"></a>
+  <a href="https://github.com/rafarubia7"><img src="https://github-widgetbox.vercel.app/api/profile?username=rafarubia7&data=followers,repositories,stars,commits&theme=nautilus" width="600" alt="GitHub WidgetBox"></a>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
