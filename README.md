@@ -51,7 +51,7 @@
 
   <details>
     <summary>🏆 GitHub Trophies</summary>
-    <img src="https://github-profile-trophy.vercel.app/?username=AlessandroMendesS&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="Trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=rafarubia7&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="Trophy"/>
   </details>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
