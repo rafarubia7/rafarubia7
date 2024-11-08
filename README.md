@@ -32,6 +32,12 @@
 </div>
 
 <div align="center">
+ <h3>⚙️ Development Tools</h3>
+  <div>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github" alt="Development Tools"/>
+  </div>
+
+<div align="center">
   <h2>📊 GitHub Analytics</h2>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafarubia7&theme=react-dark&hide_border=true" width="95%" alt="Contribution Graph"/>
@@ -49,9 +55,9 @@
   </details>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
-<div align="center">
+
+
   <h2>🤝 Let's Connect</h2>
   
   <a href="https://www.instagram.com/rafa_rubia7/" target="_blank">
