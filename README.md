@@ -9,11 +9,7 @@
 <div align="center">
   <h3>🎯 Current Skills</h3>
 
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=oracle&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,java,js,python" alt="Current Skills"/>
 </div>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -21,7 +17,7 @@
 <div align="center">
  <h3>⚙️ Development Tools</h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github" alt="Development Tools"/>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,mysql" alt="Development Tools"/>
   </div>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -53,6 +49,9 @@
   </a>
   <a href="mailto:rafaelrubia62@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://www.tiktok.com/@rafa_rubia7?_t=8rELuRzP2ng&_r=1" target="_blank">
+  <img src="https://img.shields.io/badge/-TikTok-020202?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
+  </a>
   </a>
   <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600"/>
